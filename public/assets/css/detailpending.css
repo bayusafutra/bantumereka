@@ -1,0 +1,15 @@
+.portfolio-info h1,h2,h3,h4,h5 {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.portfolio-info blockquote{
+    font-style: italic;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+}
+
+.portfolio-info p{
+    font-size: 15px;
+}

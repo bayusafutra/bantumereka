@@ -1,0 +1,17 @@
+Catatan Progamming
+
+1. Status Progam bantuan{
+    status 1 = pending;
+    status 2 = aktif;
+    status 3 = non-aktif;
+    status 4 = batal;
+    status 5 = selesai;
+}
+
+2. Status transaksi donasi{
+    status 1 = grg bayar;
+    status 2 = wes bayar;
+    status 3 = batal;
+}
+
+https://cdn-icons-png.flaticon.com/512/21/21104.png
